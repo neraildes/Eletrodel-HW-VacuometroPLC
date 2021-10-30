@@ -1,0 +1,2 @@
+Versão v1.0.0
+       Esquema aproveitado de outro, testado e funcionando perfeitamente.
