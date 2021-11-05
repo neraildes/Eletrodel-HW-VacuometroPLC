@@ -1,2 +1,4 @@
 [ProjectGroup]
 Version=1.0
+[Project1]
+ProjectPath=..\..\19-Eletrodel\Hardware\PCB_Project\PCB_Project.PrjPcb
