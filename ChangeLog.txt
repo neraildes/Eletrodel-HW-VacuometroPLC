@@ -1,3 +1,5 @@
+Versão v1.0.2
+	Confeccionada a placa Digital com o Arduino UNO.
 Versão v1.0.1
 	Confeccionando a placa Analógica. Ainda com as limitações laterais.
 Versão v1.0.0

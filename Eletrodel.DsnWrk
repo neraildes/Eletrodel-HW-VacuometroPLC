@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=..\..\19-Eletrodel\Hardware\PCB_Project\PCB_Project.PrjPcb
+[Project2]
+ProjectPath=..\..\19-Eletrodel\Hardware\PCB_Project_1\PCB_Project_1.PrjPcb
